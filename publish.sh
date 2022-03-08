@@ -2,11 +2,17 @@
 rm -rf _config.yml
 cp _config.yml.github _config.yml
 JEKYLL_ENV=production jekyll build
-touch ./_site/.nojekyll
 git add .
 now=$(date)
 git commit -m "$now"
 git push
+cd _site
+touch .nojekyll
+git add .
+now=$(date)
+git commit -m "$now"
+git push
+cd ..
 rm -rf _config.yml
 cp _config.yml.docker _config.yml
 JEKYLL_ENV=production jekyll build
