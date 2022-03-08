@@ -7,6 +7,7 @@ now=$(date)
 git commit -m "$now"
 git push
 cd _site
+rm -rf publish.sh
 touch .nojekyll
 git add .
 now=$(date)
