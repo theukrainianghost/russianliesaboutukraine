@@ -9,9 +9,9 @@ Putin’s crime in Kharkiv
 
 
 <video controls width="250">
-    <source src="/assets/videos/Putin-crime-in-Kharkiv.webm"
+    <source src="./assets/videos/Putin-crime-in-Kharkiv.webm"
             type="video/webm">
-    <source src="/assets/videos/Putin-crime-in-Kharkiv.mp4"
+    <source src="./assets/videos/Putin-crime-in-Kharkiv.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
