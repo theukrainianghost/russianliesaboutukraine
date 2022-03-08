@@ -11,7 +11,7 @@ touch .nojekyll
 git add .
 now=$(date)
 git commit -m "$now"
-git push
+git push --force --set-upstream origin gh-pages
 cd ..
 rm -rf _config.yml
 cp _config.yml.docker _config.yml
