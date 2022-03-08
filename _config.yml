@@ -18,21 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+email: theukrainianghost@gmail.com
+author:
+   name: Ukrainian Ghost
+   email: theukrainianghost@gmail.com
+paginate: 5
+paginate_path: "/page:num/"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Russian lies , war crimes , Russia , invasion of ukraine, kremlin, fake news, the true, no censure. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://russianliesaboutukraine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+social:
+   github: theukrainianghost
+   youtube_channel: UCG2vl7uMYi_EG4TmH3cks4g
+   twitter: ukrainian_ghost
+   vk: id709248551
+google_analytics: ukrainianghost_gihub
+
+languages: ["en", "fr", "ru"]
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
