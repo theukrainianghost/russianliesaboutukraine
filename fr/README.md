@@ -6,7 +6,7 @@ You can copy and hosting this website
 You can send the link and I will publish it.
 
 The actual list of mirrors are :
-- https://russianliesaboutukraine.github.io
+- https://theukrainianghost.github.io/russianliesaboutukraine/
 - https://www.russianliesaboutukraine.com
 
 
