@@ -27,7 +27,7 @@ paginate_path: "/page:num/"
 description: >- # this means to ignore newlines until "baseurl:"
   Russian lies , war crimes , Russia , invasion of ukraine, kremlin, fake news, the true, no censure. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://theukrainianghost.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.russianliesaboutukraine.com" # the base hostname & protocol for your site, e.g. http://example.com
 social:
    github: theukrainianghost
    youtube_channel: UCG2vl7uMYi_EG4TmH3cks4g
