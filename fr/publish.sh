@@ -14,6 +14,19 @@ now=$(date)
 git commit -m "$now"
 git push --force --set-upstream origin gh-pages
 cd ..
+cd _site_github
+shopt -s extglob
+rm -rf !(.git)
+cd ..
+cp -r ./_site/* ./_site_github
+cd _site_github
+rm -rf publish.sh
+touch .nojekyll
+git add .
+now=$(date)
+git commit -m "$now"
+git push --force --set-upstream origin gh-pages
+cd ..
 rm -rf _config.yml
 cp _config.yml.docker _config.yml
 JEKYLL_ENV=production jekyll build
