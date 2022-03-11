@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The russian army shoot the jounralist guillaume briquet"
+title:  "The russian army shoot the journalist guillaume briquet"
 date:   2022-03-07 14:30:58 +0100
 categories: photo
 ---
