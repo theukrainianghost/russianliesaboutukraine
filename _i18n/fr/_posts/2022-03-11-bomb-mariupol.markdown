@@ -8,7 +8,6 @@ categories: video
 Dans une zone residentiel de Mariupol. Bombardement de l'armée russe. Au moins 1 civil a été tué.
 
 
-<img src="./assets/images/guillaume-briquet.jpeg">
 <video controls width="400">
     <source src="./assets/videos/bomb-marioupol.webm"
             type="video/webm">

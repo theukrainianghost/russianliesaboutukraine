@@ -8,7 +8,7 @@ categories: video
 Russian war crime in Kharkiv
 
 
-<video controls width="250">
+<video controls width="400">
     <source src="./assets/videos/Putin-crime-in-Kharkiv.webm"
             type="video/webm">
     <source src="./assets/videos/Putin-crime-in-Kharkiv.mp4"
