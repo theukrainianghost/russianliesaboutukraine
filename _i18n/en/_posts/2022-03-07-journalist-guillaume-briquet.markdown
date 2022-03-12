@@ -7,7 +7,7 @@ categories: photo
 
 Russian troops fire on Swiss journalist Guillaume Briquet. He worked in the Mykolaiv region, his car marked PRESS was hit. They also stole his passport, money and equipment.
 
-<img src="/assets/images/guillaume-briquet.jpeg">
+<img src="{{ site.baseurl }}/assets/images/guillaume-briquet.jpeg">
 <img src="/assets/images/voiture-guillaume-briquet.jpeg">
 <img src="/assets/images/voiture-guillaume-briquet2.jpeg">
 <img src="/assets/images/voiture-guillaume-briquet3.jpeg">
