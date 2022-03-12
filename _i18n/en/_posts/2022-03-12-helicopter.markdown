@@ -5,7 +5,7 @@ date:   2022-03-12 11:30:58 +0100
 categories: videos
 ---
 
-2 Russian helicopters shot down by the Ukrainian army. One of the pilots survived and was taken to hospital. 
+2 Russian helicopters shot down by the Ukrainian army over the Skadovsk district in the Kherson region. One of the pilots survived and was taken to hospital. 
 
 <video controls width="400">
     <source src="{{ site.baseurl }}/assets/videos/1.webm"

@@ -5,7 +5,7 @@ date:   2022-03-12 11:30:58 +0100
 categories: videos
 ---
 
-2 hélicoptères russes abattues par l'armée ukrainienne. Un des pilotes a survecu et a été emmené à l'hopital. 
+2 hélicoptères russes abattus par l'armée ukrainienne au-dessus du district de Skadovsk dans la région de Kherson. L'un des pilotes a survécu et a été emmené à l'hôpital. 
 
 <video controls width="400">
     <source src="{{ site.baseurl }}/assets/videos/1.webm"
