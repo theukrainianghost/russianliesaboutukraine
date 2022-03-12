@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The inhabitants of Melitopol protest against the capture of the mayor"
+date:   2022-03-12 15:30:58 +0100
+categories: video
+---
+
+Several thousand Melitopol residents turned out for a rally in front of the administrative building to demand the release of Mayor Ivan Fedorov, who was kidnapped by Russian occupiers. Ukrainians do not want the Russians.
+
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/3.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/3.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>

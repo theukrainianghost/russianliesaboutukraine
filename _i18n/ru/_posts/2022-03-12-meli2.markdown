@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Жители Мелитополя протестуют против захвата мэра города"
+date:   2022-03-12 15:30:58 +0100
+categories: video
+---
+
+Несколько тысяч жителей Мелитополя вышли на митинг перед административным зданием с требованием освободить мэра Ивана Федорова, похищенного российскими оккупантами. Украинцы не хотят русских.
+
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/3.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/3.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
