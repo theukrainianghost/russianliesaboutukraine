@@ -37,6 +37,8 @@ social:
 google_analytics: G-JJ9GF68Q72
 website: ["https://www.russianliesaboutukraine.com","https://theukrainianghost.github.io/ukraine"]
 languages: ["en", "fr", "ru"]
+excerpt_separator: "<!--more-->"
+show_excerpts: true
 
 # Build settings
 theme: minima

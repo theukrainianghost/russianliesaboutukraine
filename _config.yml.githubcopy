@@ -36,6 +36,8 @@ social:
 google_analytics: G-07PG3YH144
 
 languages: ["en", "fr", "ru"]
+excerpt_separator: "<!--more-->"
+show_excerpts: true
 
 # Build settings
 theme: minima
