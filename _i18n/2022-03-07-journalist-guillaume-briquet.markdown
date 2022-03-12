@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "title"
+date:   2022-03-07 14:30:58 +0100
+categories: photo
+---
+
+text
+
+<img src="./assets/images/guillaume-briquet.jpeg">
+<video controls width="250">
+    <source src="./assets/videos/Putin-crime-in-Kharkiv.webm"
+            type="video/webm">
+    <source src="./assets/videos/Putin-crime-in-Kharkiv.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
+link : <a href="https://">link</a>
