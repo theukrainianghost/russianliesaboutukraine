@@ -7,7 +7,7 @@ categories: photo
 
 text
 
-<img src="./assets/images/guillaume-briquet.jpeg">
+<img src="./assets/images/FNhZzuWWYAIXYnD.jpeg">
 <video controls width="400">
     <source src="./assets/videos/Putin-crime-in-Kharkiv.webm"
             type="video/webm">
