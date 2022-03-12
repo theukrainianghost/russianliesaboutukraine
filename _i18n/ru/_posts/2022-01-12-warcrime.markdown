@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Многие дети погибли под обстрелами российской армии"
+date:   2022-03-12 19:30:58 +0100
+categories: photo
+---
+
+79 детей были убиты и более 100 ранены во время войны в Украине.
+
+<img src="{{ site.baseurl }}/assets/images/4/FNoxHe4WQAQOQZj.jpeg">
+
+
+<a href="https://warcrimes.gov.ua/">warcrimes.gov.ua</a>
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Many children have died under the Russian army's bombardment"
+date:   2022-03-12 19:30:58 +0100
+categories: photo
+---
+
+79 children were killed and over 100 injured during the war in Ukraine.
+
+<img src="{{ site.baseurl }}/assets/images/4/FNoxHe4WQAQOQZj.jpeg">
+
+
+<a href="https://warcrimes.gov.ua/">warcrimes.gov.ua</a>
+

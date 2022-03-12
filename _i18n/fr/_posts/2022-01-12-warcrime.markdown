@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Beaucoup d'enfants sont morts sous les bombardements de l'armée russe"
+date:   2022-03-12 19:30:58 +0100
+categories: photo
+---
+
+79 enfants ont été tués et plus de 100 blessés pendant la guerre en Ukraine.
+
+<img src="{{ site.baseurl }}/assets/images/4/FNoxHe4WQAQOQZj.jpeg">
+
+
+<a href="https://warcrimes.gov.ua/">warcrimes.gov.ua</a>
+
