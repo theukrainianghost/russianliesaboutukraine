@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Les crimes de putin à Kharkiv"
+title:  "Les crimes guerre de la russie à Kharkiv"
 date:   2022-03-02 14:30:58 +0100
 categories: video
 ---
 
-Les crimes de putin à Kharkiv
+Les crimes guerre de la russie à Kharkiv
 
 
 <video controls width="250">
@@ -16,6 +16,6 @@ Les crimes de putin à Kharkiv
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YYJCODB0cLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/YYJCODB0cLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 Sources : <a href="https://twitter.com/nftsplanet/status/1499023547402002432">compte twitter de beregula Alexander</a>
