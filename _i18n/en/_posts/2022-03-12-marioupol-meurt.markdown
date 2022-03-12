@@ -8,4 +8,4 @@ categories: photo
 In Mariupol the Russian army continues to bomb residential areas. The inhabitants are dying under the Russian bombs.
 There is no water, no food, no heating.
 
-<img src="/assets/images/FNmPDvLXsAMvGfz.jpeg">
+<img src="{{ site.baseurl }}/assets/images/FNmPDvLXsAMvGfz.jpeg">

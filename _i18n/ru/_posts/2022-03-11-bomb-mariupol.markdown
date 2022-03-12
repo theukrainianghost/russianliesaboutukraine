@@ -9,9 +9,9 @@ categories: video
 
 
 <video controls width="400">
-    <source src="/assets/videos/bomb-marioupol.webm"
+    <source src="{{ site.baseurl }}/assets/videos/bomb-marioupol.webm"
             type="video/webm">
-    <source src="/assets/videos/bomb-marioupol.mp4"
+    <source src="{{ site.baseurl }}/assets/videos/bomb-marioupol.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>

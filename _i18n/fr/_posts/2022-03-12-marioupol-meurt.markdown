@@ -8,5 +8,5 @@ categories: photo
 A Marioupol  l'armée russe continue de bombarder les quartiers residentiels. Les habitants meurts sous les bombes russes.
 Il n'y a plus d'eau, plus rien à manger, plus de chauffage.
 
-<img src="/assets/images/FNmPDvLXsAMvGfz.jpeg">
+<img src="{{ site.baseurl }}/assets/images/FNmPDvLXsAMvGfz.jpeg">
 

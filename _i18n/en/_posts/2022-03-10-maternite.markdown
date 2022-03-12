@@ -7,6 +7,6 @@ categories: photo
 
 Bombing by Russia of a maternity hospital in Marioupol which caused at least 3 deaths.
 
-<img src="/assets/images/FNhZzuWWYAIXYnD.jpeg">
-<img src="/assets/images/maroupol.jpg">
+<img src="{{ site.baseurl }}/assets/images/FNhZzuWWYAIXYnD.jpeg">
+<img src="{{ site.baseurl }}/assets/images/maroupol.jpg">
 
