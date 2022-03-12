@@ -9,9 +9,9 @@ Dans une zone residentiel de Mariupol. Bombardement de l'armée russe. Au moins 
 
 
 <video controls width="400">
-    <source src="./assets/videos/bomb-marioupol.webm"
+    <source src="/assets/videos/bomb-marioupol.webm"
             type="video/webm">
-    <source src="./assets/videos/bomb-marioupol.mp4"
+    <source src="/assets/videos/bomb-marioupol.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>

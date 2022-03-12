@@ -8,5 +8,5 @@ categories: photo
 В Мариуполе российская армия продолжает бомбить жилые кварталы. Жители гибнут под российскими бомбами.
 Нет ни воды, ни еды, ни отопления.
 
-<img src="./assets/images/FNmPDvLXsAMvGfz.jpeg">
+<img src="/assets/images/FNmPDvLXsAMvGfz.jpeg">
 
