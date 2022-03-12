@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Destruction by the Russian army in Makariv"
+date:   2022-03-12 12:30:58 +0100
+categories: photo
+---
+
+Russian attack on civilian buildings in Makariv. They are destroying Ukraine.
+
+<img src="{{ site.baseurl }}/assets/images/2/FNmPDvLXsAMvGfz.jpeg">
+<img src="{{ site.baseurl }}/assets/images/2/FNqHNaYXMAUGnPu.jpeg">
+<img src="{{ site.baseurl }}/assets/images/2/FNqHNZQXwAEoKdW.jpeg">
+<img src="{{ site.baseurl }}/assets/images/2/FNqHNZwWUAI6E3p.jpeg">
