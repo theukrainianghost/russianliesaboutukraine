@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The inhabitants of Melitopol protest against the capture of the mayor"
+title:  "Melitopol residents protest against the capture of the mayor"
 date:   2022-03-12 15:30:58 +0100
 categories: video
 ---
