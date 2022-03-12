@@ -7,5 +7,5 @@ categories: photo
 
 Российский обстрел родильного дома в Мариуполе, в результате которого погибли по меньшей мере 3 человека.
 <img src="./assets/images/FNhZzuWWYAIXYnD.jpeg">
-<img src="./assets/images/maroupol.jpeg">
+<img src="./assets/images/maroupol.jpg">
 

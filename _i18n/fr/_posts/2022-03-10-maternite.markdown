@@ -7,5 +7,5 @@ categories: photo
 
 Bombardement par la russie d'une maternité à Marioupol qui a fait au moint 3 morts.
 <img src="./assets/images/FNhZzuWWYAIXYnD.jpeg">
-<img src="./assets/images/maroupol.jpeg">
+<img src="./assets/images/maroupol.jpg">
 
