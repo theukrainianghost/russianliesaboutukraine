@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Une russie qui détruit tout "
+title: "A Russia that destroys everything"
 date: 2022-03-13 20:52:28 +0100
 categories: all
 ---
 <!--translate-->
-Le reportage de la chaine française TF1 est édifiant. Chaque ville conquise par la russie est complètement détruite par les bombardements. C'est la destruction de l'ukraine qui est en cours.
+The report of the French channel TF1 is edifying. Every city conquered by Russia is completely destroyed by bombing. It is the destruction of Ukraine that is underway.
 <!--endtranslate-->
 
 <video controls width="400">

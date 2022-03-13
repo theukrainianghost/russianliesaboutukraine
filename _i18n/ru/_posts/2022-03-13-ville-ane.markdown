@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Россия, которая все разрушает"
+date: 2022-03-13 20:52:28 +0100
+categories: all
+---
+<!--translate-->
+Репортаж французского канала TF1 носит назидательный характер. Каждый город, завоеванный Россией, полностью разрушен бомбардировками. Идет уничтожение Украины.
+<!--endtranslate-->
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/7.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/7.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
+источник : TF1
