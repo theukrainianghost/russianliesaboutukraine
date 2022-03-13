@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "French channel TF1 reports on Mariupol and Mykolaiv"
+date:   2022-03-13 08:53:58 +0100
+categories: video
+---
+
+TF1 report on the siege of Mariupol and the distress of the people. Russian soldiers are blocking the evacuation of the civilian population. Many deaths, no water, no food, no heating. People are dying of cold, hunger and under the Russian bombs.
+In Mykolaiv, the Russians bomb the town.
+
+<p>
+<video controls width="600">
+    <source src="{{ site.baseurl }}/assets/videos/5.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/5.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+</p>
+<p>
+<video controls width="600">
+    <source src="{{ site.baseurl }}/assets/videos/6.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/6.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video></p>
+
+source : TF1

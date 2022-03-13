@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Французский канал TF1 сообщает о событиях в Мариуполе и Николаеве"
+date:   2022-03-13 08:53:58 +0100
+categories: video
+---
+
+Репортаж TF1 об осаде Мариуполя и бедственном положении людей. Российские солдаты блокируют эвакуацию гражданского населения. Много смертей, нет воды, нет еды, нет отопления. Люди умирают от холода, голода и под российскими бомбами.
+В Николаеве русские бомбят город.
+
+<p>
+<video controls width="600">
+    <source src="{{ site.baseurl }}/assets/videos/5.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/5.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+</p>
+<p>
+<video controls width="600">
+    <source src="{{ site.baseurl }}/assets/videos/6.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/6.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video></p>
+
+источник : TF1
