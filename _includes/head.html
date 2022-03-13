@@ -17,11 +17,13 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="twitter:title" content="{{ page.title }}" />
   {% endif %}
+  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=622dcea358f4c40013686605&product=inline-share-buttons" async="async"></script>
 
   <link rel="stylesheet" href="{{ "./assets/css/site.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
   {%- endif -%}
+
 
 </head>
