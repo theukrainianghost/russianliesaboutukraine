@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Family killed by Russian tank"
+date:   2022-03-13 13:32:58 +0100
+categories: photo
+---
+
+A family, father Mykhailo, mother Mykhailo and their baby Yefrem, were in a car when a Russian tank shot them. All three of them died.
+
+<img src="{{ site.baseurl }}/assets/images/5/FNuRXNUXsAMFVQ7.jpeg">
+
+source : <a href="https://twitter.com/mompontet/status/1502954733425811458?s=20&t=Takcjf0vKj3eUlOPZkLCrA">twitter</a>

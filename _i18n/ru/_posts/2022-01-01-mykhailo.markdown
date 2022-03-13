@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Семья, убитая российским танком"
+date:   2022-03-13 13:32:58 +0100
+categories: photo
+---
+
+Семья - отец Михаил, мать Михаила и их ребенок Ефрем - находились в машине, когда по ним выстрелил российский танк. Все трое умерли.
+
+<img src="{{ site.baseurl }}/assets/images/5/FNuRXNUXsAMFVQ7.jpeg">
+
+Источники : <a href="https://twitter.com/mompontet/status/1502954733425811458?s=20&t=Takcjf0vKj3eUlOPZkLCrA">twitter</a>

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Une famille tuée par un char russe"
+date:   2022-03-13 13:32:58 +0100
+categories: photo
+---
+
+Une famille , le père Mykhailo, la mère Mykhailo et leur bébé Yefrem etaient en voiture quand un char russe leur a tiré dessus. Ils sont mort tous les 3
+
+<img src="{{ site.baseurl }}/assets/images/5/FNuRXNUXsAMFVQ7.jpeg">
+
+source : <a href="https://twitter.com/mompontet/status/1502954733425811458?s=20&t=Takcjf0vKj3eUlOPZkLCrA">twitter</a>
