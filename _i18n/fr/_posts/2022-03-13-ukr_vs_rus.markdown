@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Les soldats russes pillent l'ukraine"
+date: 2022-03-13 22:00:27 +0100
+categories: all
+---
+<!--translate-->
+Les soldats russes pillent les magasins ukrainiens volant le peu de nourriture restant pour la population. Tandis que l'armée ukrainienne distribue des ressources alimentaires à la population.
+<!--endtranslate-->
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/10.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/10.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>

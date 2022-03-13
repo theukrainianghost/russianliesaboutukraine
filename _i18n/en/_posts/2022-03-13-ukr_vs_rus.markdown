@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Russian soldiers loot Ukraine"
+date: 2022-03-13 22:00:27 +0100
+categories: all
+---
+<!--translate-->
+Russian soldiers loot Ukrainian shops stealing what little food is left for the population. While the Ukrainian army distributes food supplies to the population.
+<!--endtranslate-->
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/10.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/10.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
