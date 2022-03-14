@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Une employée d'une chaîne russe montre un pancarte non à la guerre"
-date: 2022-03-14 21:30:45 +0100
+title: "Une employée d une chaîne russe montre un pancarte non à la guerre"
+date: 2022-03-14 21:31:19 +0100
 categories: all
 ---
 <!--translate-->

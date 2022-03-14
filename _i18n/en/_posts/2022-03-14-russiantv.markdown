@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Russian TV station employee holds up no war sign"
-date: 2022-03-14 21:30:45 +0100
+title: "Russian TV station employee holds up a no war sign"
+date: 2022-03-14 21:31:19 +0100
 categories: all
 ---
 <!--translate-->
