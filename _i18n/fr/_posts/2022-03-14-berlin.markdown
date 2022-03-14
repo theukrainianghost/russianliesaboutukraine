@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Des dizaines milliers de manifestants à Berlin pour soutenir l'Ukraine"
+date: 2022-03-14 20:39:39 +0100
+categories: all
+---
+<!--translate-->
+Des dizaines de milliers de personnes manifestaient à Berlin contre la guerre en Ukraine. Oui en Europe, on peut manifester sans être emprisonné. On est libre en Europe. 
+<!--endtranslate-->
+
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/12.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/12.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>

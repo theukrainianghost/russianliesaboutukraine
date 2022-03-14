@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Tens of thousands of demonstrators in Berlin to support Ukraine"
+date: 2022-03-14 20:39:39 +0100
+categories: all
+---
+<!--translate-->
+Tens of thousands of people demonstrated in Berlin against the war in Ukraine. Yes, in Europe you can demonstrate without being imprisoned. We are free in Europe. 
+<!--endtranslate-->
+
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/12.webm"
+            type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/12.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
