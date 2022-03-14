@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Une employée d'une chaîne russe montre un pancarte non à la guerre"
-date: 2022-03-14 21:26:40 +0100
+date: 2022-03-14 21:28:12 +0100
 categories: all
 ---
 
 <!--translate-->
-Pendant le programme d'information "Vremya" de la principale chaîne de télévision russe, Maria Ovsyannikova, une employée de Channel One, s'est précipitée devant la caméra avec une affiche disant "arrêtez la guerre, ne croyez pas la propagande".
+Pendant le programme d'information Vremya de la principale chaîne de télévision russe, Maria Ovsyannikova, une employée de Channel One, s'est précipitée devant la caméra avec une affiche disant "arrêtez la guerre, ne croyez pas la propagande".
 Courage aux russes qui resistent.
 <!--endtranslate-->
 
