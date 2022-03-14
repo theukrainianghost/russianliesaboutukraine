@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Сотрудник российского телеканала держит знак "Нет войне!"
-date: 2022-03-14 21:32:33 +0100
+date: 2022-03-14 21:42:21 +0100
 categories: all
 ---
 <!--translate-->
-Pendant le programme d'information Vremya de la principale chaîne de télévision russe, Maria Ovsyannikova, une employée de Channel One, s'est précipitée devant la caméra avec une affiche disant "arrêtez la guerre, ne croyez pas la propagande".
-Courage aux russes qui resistent.
+Во время новостной программы "Время" на главном российском телеканале сотрудница Первого канала Мария Овсянникова бросилась перед камерой с плакатом "Остановите войну, не верьте пропаганде". Мужества русским, которые сопротивляются.
 <!--endtranslate-->
 
 <img src="{{ site.baseurl }}/assets/images/8.jpeg">
