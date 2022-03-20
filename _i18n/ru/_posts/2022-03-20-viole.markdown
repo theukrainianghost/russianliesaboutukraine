@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Изнасилование и убийство российскими солдатами"
+date: 2022-03-20 15:46:51 +0100
+categories: all
+---
+Обмен сообщениями между солдатами и их родственниками в России показывает злоупотребления российских солдат в Украине. Убийство и изнасилование. Военные преступления.
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/13.webm" type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/13.mp4" type="video/mp4">
+    Извините, ваш браузер не поддерживает встроенные видео.
+</video>
+
+
+источник : <a href="https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-des-echanges-accablants-entre-des-soldats-russes-et-leurs-proches_VN-202203190221.html">bfmtv</a>

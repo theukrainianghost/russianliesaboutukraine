@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Rape and murder by Russian soldiers"
+date: 2022-03-20 15:46:51 +0100
+categories: all
+---
+Exchanges between soldiers and their relatives in Russia show the abuses of Russian soldiers in Ukraine. Murder and rape. War crimes.
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/13.webm" type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/13.mp4" type="video/mp4">
+    Sorry, your browser does not support embedded videos.
+</video>
+
+
+source : <a href="https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-des-echanges-accablants-entre-des-soldats-russes-et-leurs-proches_VN-202203190221.html">bfmtv</a>

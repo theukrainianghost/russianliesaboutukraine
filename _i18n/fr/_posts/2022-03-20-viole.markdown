@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Violes et meurtres par les soldats russes"
+date: 2022-03-20 15:46:51 +0100
+categories: all
+---
+Des échanges entre des soldats et leur proches en russie montrent les exactions des soldats russes en ukraine. Des meurtres et des violes. Des Crimes de guerres.
+
+<video controls width="400">
+    <source src="{{ site.baseurl }}/assets/videos/13.webm" type="video/webm">
+    <source src="{{ site.baseurl }}/assets/videos/13.mp4" type="video/mp4">
+    Désolé, votre navigateur ne prend pas en charge les vidéos intégrées.
+</video>
+
+
+source : <a href="https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-des-echanges-accablants-entre-des-soldats-russes-et-leurs-proches_VN-202203190221.html">bfmtv</a>
