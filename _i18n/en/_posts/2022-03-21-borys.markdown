@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Rescuer of the Nazi camps, he dies in a bombing"
+date: 2022-03-21 19:00:06 +0100
+categories: all
+---
+
+Boris Romantschenko, a 96-year-old survivor of four Nazi concentration camps, including Buchenwald and Bergen-Belsen, was killed in the bombing of the building where he lived in Kharkiv, in north-eastern Ukraine, on Friday 18 March.
+
+<img src="{{ site.baseurl }}/assets/images/FOYlcUrWYAE-v5w.jpeg">
+
+source : <a href="https://www.ouest-france.fr/monde/guerre-en-ukraine/boris-romanchenko-rescape-des-camps-nazis-meurt-dans-un-bombardement-en-ukraine-6c15091e-a92e-11ec-b420-ea50e1a075d7">Ouest France</a>
+
+
