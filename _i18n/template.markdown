@@ -19,3 +19,5 @@ texte
 
 
 source : <a href="https://">link</a>
+
+<tags values="#россия #украина #геноцид #нетвойне #StandWithUkraine #РоссияСмотри #RussiaInvadedUkraine #RussiaUkraineWar #RussianWarCrimes"/>
